@@ -1,0 +1,42 @@
+[submodule "stb"]
+	path = stb
+	url = http://github.com/nothings/stb
+[submodule "nuklear"]
+	path = nuklear
+	url = https://github.com/vurtun/nuklear
+[submodule "cute_headers"]
+	path = cute_headers
+	url = https://github.com/RandyGaul/cute_headers
+[submodule "libdill"]
+	path = libdill
+	url = https://github.com/sustrik/libdill
+[submodule "libs"]
+	path = libs
+	url = https://github.com/mattiasgustavsson/libs
+[submodule "dr_libs"]
+	path = dr_libs
+	url = https://github.com/mackron/dr_libs
+[submodule "rjm"]
+	path = rjm
+	url = https://github.com/rmitton/rjm
+[submodule "pcg-c"]
+	path = pcg-c
+	url = https://github.com/imneme/pcg-c
+[submodule "pcg-c-basic"]
+	path = pcg-c-basic
+	url = https://github.com/imneme/pcg-c-basic
+[submodule "gb"]
+	path = gb
+	url = https://github.com/gingerbill/gb
+[submodule "raylib"]
+	path = raylib
+	url = https://github.com/raysan5/raylib
+[submodule "meow_hash"]
+	path = meow_hash
+	url = https://github.com/cmuratori/meow_hash
+[submodule "tinycthread"]
+	path = tinycthread
+	url = https://github.com/tinycthread/tinycthread
+[submodule "tinyfiledialogs"]
+	path = tinyfiledialogs
+	url = https://git.code.sf.net/p/tinyfiledialogs/code
